@@ -1,0 +1,325 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16314 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\UnityInstalls\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/anng/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63812
+Successfully changed project path to: C:/Users/anng/New Unity Project
+C:/Users/anng/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path D:/UnityInstalls/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/anng/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1e89)
+    Vendor:   
+    VRAM:     5967 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/UnityInstalls/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UnityInstalls/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/UnityInstalls/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UnityInstalls/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/UnityInstalls/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001331 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.094 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1195 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.3 MB.
+System memory in use after: 59.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 2.214300 ms (FindLiveObjects: 0.164600 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.931400 ms  DeleteObjects: 0.084100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Img/GAME/NoteSkin/00/DownLeft Hold BottomCap Active 6x1.png
+  artifactKey: Guid(c9508f60ffa106a46bb91aab01db3741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownLeft Hold BottomCap Active 6x1.png using Guid(c9508f60ffa106a46bb91aab01db3741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b40a7affcf5336abac508cfabd576ea') in 0.173140 seconds
+  Import took 0.175327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/GLOW 5x2.PNG
+  artifactKey: Guid(6ae1c05197c1020498a0ebe708c3af72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/GLOW 5x2.PNG using Guid(6ae1c05197c1020498a0ebe708c3af72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843ffe48203e436a68f49689c5a04160') in 0.032295 seconds
+  Import took 0.034462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/Fallback Tap Mine 3x2.png
+  artifactKey: Guid(79e2b9291960294488d4ec82b48d0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/Fallback Tap Mine 3x2.png using Guid(79e2b9291960294488d4ec82b48d0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e40d93d6e071e7753556b3943dd61e1') in 0.022081 seconds
+  Import took 0.024577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/BASE 1x2.PNG
+  artifactKey: Guid(34afc59126ab508439180ecbc58911d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/BASE 1x2.PNG using Guid(34afc59126ab508439180ecbc58911d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c840d9c8b832bbc535f01ff2549a077c') in 0.018127 seconds
+  Import took 0.020193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/DownRight Roll Head Active 3x2.png
+  artifactKey: Guid(bb4dc6c54391e8f4bb2b2c15dc839e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownRight Roll Head Active 3x2.png using Guid(bb4dc6c54391e8f4bb2b2c15dc839e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351f341517b03b2818618bc2d8657862') in 0.023327 seconds
+  Import took 0.025505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/DownLeft Tap Note 3x2.png
+  artifactKey: Guid(e40d5cac336cc0e4db5b22f4113a2562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownLeft Tap Note 3x2.png using Guid(e40d5cac336cc0e4db5b22f4113a2562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bda5e01789c37a78598e250b0aee11') in 0.031079 seconds
+  Import took 0.033196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/DownRight Hold Body Active 6x1.png
+  artifactKey: Guid(833244da78f0c744da214ee7218222c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownRight Hold Body Active 6x1.png using Guid(833244da78f0c744da214ee7218222c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a3b4b45b78ff54cb629f7dc7dcaf91') in 0.018873 seconds
+  Import took 0.021054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/UpLeft Hold BottomCap Active 6x1.png
+  artifactKey: Guid(503f511d3f294ca44bbb0bd5744c83b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/UpLeft Hold BottomCap Active 6x1.png using Guid(503f511d3f294ca44bbb0bd5744c83b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbe6288e47341dfebbbfa87f8fbd391') in 0.018946 seconds
+  Import took 0.021011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/UpLeft Hold Body Active 6x1.png
+  artifactKey: Guid(1dd8eb99c43eaf043adb0ae82ac480e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/UpLeft Hold Body Active 6x1.png using Guid(1dd8eb99c43eaf043adb0ae82ac480e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88d626eb9f480bb65531a79e20501a3') in 0.017847 seconds
+  Import took 0.020175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/Center Roll Head Active 3x2.png
+  artifactKey: Guid(afbf37f58bc68664ab92afa3c38e2a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/Center Roll Head Active 3x2.png using Guid(afbf37f58bc68664ab92afa3c38e2a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf8bd13fb8f83d204bd2f3fd1a98ea3') in 0.026374 seconds
+  Import took 0.028639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/DownLeft Roll Head Active 3x2.png
+  artifactKey: Guid(0fdaafd2ef0f56d409506a407770e541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownLeft Roll Head Active 3x2.png using Guid(0fdaafd2ef0f56d409506a407770e541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b911ff8724d4e3d62939bd23313166c3') in 0.023639 seconds
+  Import took 0.026214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/_explosion 6x1.png
+  artifactKey: Guid(6a8a009ee1fddc04883b82c20c8820ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/_explosion 6x1.png using Guid(6a8a009ee1fddc04883b82c20c8820ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c77b6d38a76b37cdbe35b4e3ff5cb9') in 0.023520 seconds
+  Import took 0.025929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/DownLeft Hold Body Active 6x1.png
+  artifactKey: Guid(51c62a0f40d4b5046a26a3007a258f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownLeft Hold Body Active 6x1.png using Guid(51c62a0f40d4b5046a26a3007a258f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4dc01f0bae0bb58fbf117d8a31932c') in 0.018850 seconds
+  Import took 0.021116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/Center Hold Body Active 6x1.png
+  artifactKey: Guid(11f80ac713abe544ab0f6d99435ac67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/Center Hold Body Active 6x1.png using Guid(11f80ac713abe544ab0f6d99435ac67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bae10ecad4d49e9aefe3d1927c9a0ce') in 0.018642 seconds
+  Import took 0.020666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/UpLeft Roll Head Active 3x2.png
+  artifactKey: Guid(e3cda2d450dadb844a6db3c04b31ba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/UpLeft Roll Head Active 3x2.png using Guid(e3cda2d450dadb844a6db3c04b31ba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c666aa099fa9d33e2a9f963b747fb0') in 0.020969 seconds
+  Import took 0.022897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/UpRight Hold Body Active 6x1.png
+  artifactKey: Guid(06ff8da575dd24b4c9ffb8851d4de577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/UpRight Hold Body Active 6x1.png using Guid(06ff8da575dd24b4c9ffb8851d4de577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0430360a14bf1e12129d96804a893fa8') in 0.018217 seconds
+  Import took 0.020389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/UpRight Hold BottomCap Active 6x1.png
+  artifactKey: Guid(9b9f9116bc2098440be0eec1394c1bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/UpRight Hold BottomCap Active 6x1.png using Guid(9b9f9116bc2098440be0eec1394c1bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2a11e6341432190a590fa922c88371') in 0.021317 seconds
+  Import took 0.023100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/UpRight Roll Head Active 3x2.png
+  artifactKey: Guid(bbb6d9cdf7a74274da34dcb50e83652d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/UpRight Roll Head Active 3x2.png using Guid(bbb6d9cdf7a74274da34dcb50e83652d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d9a5f2657ca70ba14b3579773c7750') in 0.023141 seconds
+  Import took 0.025327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/DownRight Hold BottomCap Active 6x1.png
+  artifactKey: Guid(89217f8f115c37946b58785ea45fc869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/DownRight Hold BottomCap Active 6x1.png using Guid(89217f8f115c37946b58785ea45fc869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8458755792b94c3d45e410e71241f1d0') in 0.020102 seconds
+  Import took 0.022108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/Center Tap Note 3x2.png
+  artifactKey: Guid(f98adea7dd94ff9429b077d11d1142e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/Center Tap Note 3x2.png using Guid(f98adea7dd94ff9429b077d11d1142e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb6f007c82d18bb778059472dada4f8') in 0.022520 seconds
+  Import took 0.024609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Img/GAME/NoteSkin/00/Center Hold BottomCap Active 6x1.png
+  artifactKey: Guid(a04d0570b53751c4ab6d7eba7467641c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Img/GAME/NoteSkin/00/Center Hold BottomCap Active 6x1.png using Guid(a04d0570b53751c4ab6d7eba7467641c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2264fcdd9dbca50c80790f6d536ef9d4') in 0.021077 seconds
+  Import took 0.023621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.404370 seconds.
+  path: Assets/Script/testing/randomizerScript.cs
+  artifactKey: Guid(073baa7fa5245f3409a75dd70ab6b9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/randomizerScript.cs using Guid(073baa7fa5245f3409a75dd70ab6b9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de7f5a928660128e698de10a462bf93') in 0.013854 seconds
+  Import took 0.015968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002148 seconds.
+  path: Assets/Script/testing/randomizerScript.cs
+  artifactKey: Guid(073baa7fa5245f3409a75dd70ab6b9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/randomizerScript.cs using Guid(073baa7fa5245f3409a75dd70ab6b9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de7f5a928660128e698de10a462bf93') in 0.002532 seconds
+  Import took 0.004284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.689091 seconds.
+  path: Assets/Script/testing/randomMvement.cs
+  artifactKey: Guid(59c11a7f9c567c44cbdb4a425785478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/randomMvement.cs using Guid(59c11a7f9c567c44cbdb4a425785478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ef73f2d81c18972ff05e51896bb6cf') in 0.006544 seconds
+  Import took 0.008580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002981 seconds.
+  path: Assets/Script/testing/randomMvement.cs
+  artifactKey: Guid(59c11a7f9c567c44cbdb4a425785478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/randomMvement.cs using Guid(59c11a7f9c567c44cbdb4a425785478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ef73f2d81c18972ff05e51896bb6cf') in 0.003041 seconds
+  Import took 0.005081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.165592 seconds.
+  path: Assets/Script/testing/SSCParser.cs
+  artifactKey: Guid(ec6317f942c940d45b441c87848fd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/SSCParser.cs using Guid(ec6317f942c940d45b441c87848fd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802c794ef923afb5c7e4cba185b736ab') in 0.007362 seconds
+  Import took 0.009363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033222 seconds.
+  path: Assets/Script/testing/SSCParser.cs
+  artifactKey: Guid(ec6317f942c940d45b441c87848fd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/SSCParser.cs using Guid(ec6317f942c940d45b441c87848fd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802c794ef923afb5c7e4cba185b736ab') in 0.002694 seconds
+  Import took 0.004864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.984921 seconds.
+  path: Assets/Script/testing/GameplayController.cs
+  artifactKey: Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/GameplayController.cs using Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68318e43e958fc661fe69f1a71310a0c') in 0.007320 seconds
+  Import took 0.009467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001009 seconds.
+  path: Assets/Script/testing/GameplayController.cs
+  artifactKey: Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/GameplayController.cs using Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68318e43e958fc661fe69f1a71310a0c') in 0.002664 seconds
+  Import took 0.005147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.439719 seconds.
+  path: Assets/Script/testing/GameplayController.cs
+  artifactKey: Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/GameplayController.cs using Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaba20eb4474f87a1a306f3ad8d7dacf') in 0.007091 seconds
+  Import took 0.009567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000834 seconds.
+  path: Assets/Script/testing/GameplayController.cs
+  artifactKey: Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/testing/GameplayController.cs using Guid(334ab3eb21b30bc4fa7b9abea9d6870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaba20eb4474f87a1a306f3ad8d7dacf') in 0.003147 seconds
+  Import took 0.004973 seconds .
+
